@@ -12,7 +12,7 @@ from tensorflow.examples.tutorials.mnist import input_data
 
 # number 1 to 10 data
 mnist = input_data.read_data_sets('MNIST_data', one_hot=True)
-
+# change change change
 
 def compute_accuracy(v_xs, v_ys):
     global prediction
