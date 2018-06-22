@@ -6,8 +6,9 @@ Created on Fri Jun 15 14:36:55 2018
 @author: mixson
 """
 
+# adding something
 import tensorflow as tf
-
+# change 5
 # Create a tensor of shape [2, 3] consisting of random normal values, with mean
 # -1 and standard deviation 4.
 norm = tf.random_normal([1, 3], mean=-1, stddev=4)
